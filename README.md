@@ -1,7 +1,7 @@
 # zeo-lorem-ipsum-react
 A React-based web app that generates fun, candy-themed placeholder text as an alternative to the classic Lorem Ipsum. Simply choose the number of paragraphs and click generate!
  
-<strong style="font-weight:bold; display:block; width:100%;"></strong>
+<strong style="font-weight:bold; display:block; width:100%;">https://zeo-lorem-ipsum-zeo.netlify.app/</strong>
 
 
 <div style=" disply:flex; justify-content: center; margin: 0 auto">
